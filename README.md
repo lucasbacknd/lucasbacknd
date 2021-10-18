@@ -1,8 +1,8 @@
 ## Oii Eu sou Lucas Rodrigues 🖤
 <div align="center">
   <a href="https://github.com/lucasbcknd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbacknd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbacknd&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasbacknd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbacknd&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   
