@@ -17,10 +17,9 @@
 <img src="https://img.icons8.com/color/40/000000/code.png"/> 
 <img src="https://img.icons8.com/fluency/40/000000/sublime-text.png"/>
 <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/40/000000/figma--v2.png"/>
 <img src="https://img.icons8.com/officel/40/000000/prototype.png"/>
   </div>
   
-## 🔭 Em Transição de Carreira | Dev Full stack 💘I Love Front end
+## 🔭 Em Transição de Carreira | Dev Full stack 💘I Love Front end & back in Java 
 💾 Conhecimentos em programação: print("Hello World") kk
  
