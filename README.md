@@ -15,7 +15,6 @@
  
   <div>
 <img src="https://img.icons8.com/color/40/000000/code.png"/> 
-<img src="icons8-logo-java-coffee-cup"/> 
 <img src="https://img.icons8.com/fluency/40/000000/sublime-text.png"/>
 <img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/officel/40/000000/prototype.png"/>
